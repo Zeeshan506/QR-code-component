@@ -1,6 +1,5 @@
 # QR Code Component
-
-![Design preview for the QR code component coding challenge](./preview.jpg)
+---
 
 ## Overview
 
@@ -27,8 +26,8 @@ The goal was to build a visually accurate and responsive QR code component using
 
 ## Live Demo
 
-- Live Site: [Your Deployed Link Here](#)
-- Frontend Mentor Solution Page: [Add Link Here](#)
+- Live Site: [Your Deployed Link Here](https://qrcomponent506.netlify.app/)
+- Frontend Mentor Solution Page: [Add Link Here](https://www.frontendmentor.io/solutions/qr-code-component-Z24nn2TAMQ)
 
 ## Project Structure
 
